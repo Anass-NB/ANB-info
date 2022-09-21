@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1025350915925",
+    "project_id": "flutterstore-12653",
+    "storage_bucket": "flutterstore-12653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025350915925:android:4ec910ac1b9697a9f001dc",
+        "android_client_info": {
+          "package_name": "com.example.myfistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025350915925-hh4qo5ic4oh4q5qae4rr870sp645oo6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfistapp",
+            "certificate_hash": "eec9eb827d45955e1225a3139635d3a30722a87b"
+          }
+        },
+        {
+          "client_id": "1025350915925-65q6ecsurvpri3nbf5aouctdmut8ni3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbfQ4tbJnLiiXQ0gKPbjzPc7U_Kg6C7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025350915925-65q6ecsurvpri3nbf5aouctdmut8ni3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
